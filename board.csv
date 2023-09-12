@@ -1,0 +1,36 @@
+BID ,Product name
+  0 ,unknown
+  1 ,basic
+  2 ,core2
+  3 ,stickc
+  4 ,stickc-plus
+  5 ,stickc-plus2
+  6 ,coreink
+  7 ,paper
+  8 ,tough
+  9 ,station
+ 10 ,cores3
+ 11 ,atoms3
+ 12 ,dial
+ 13 ,dinmeter
+128 ,atom
+129 ,atom-psram
+130 ,atomu
+131 ,m5camera
+132 ,timercam
+133 ,stamppico
+134 ,stampc3
+135 ,stampc3u
+136 ,stamps3
+137 ,atoms3-lite
+138 ,atoms3u
+139 ,capsule
+192 ,atom-display
+193 ,unit-lcd
+194 ,unit-oled
+195 ,unit-minioled
+196 ,unit-glass
+197 ,unit-glass2
+198 ,unit-rca
+199 ,module-display
+200 ,module-rca
