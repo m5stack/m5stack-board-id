@@ -28,6 +28,7 @@ BID ,Product name
 138 ,atoms3u
 139 ,capsule
 140 ,atom-matrix
+141 ,atom-echo
 192 ,atom-display
 193 ,unit-lcd
 194 ,unit-oled
