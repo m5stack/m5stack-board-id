@@ -13,11 +13,12 @@ BID ,Product name
  11 ,atoms3
  12 ,dial
  13 ,dinmeter
- 14, cardputer
- 15, airq
- 16, vameter
- 17, cores3se
- 18, atoms3r
+ 14 ,cardputer
+ 15 ,airq
+ 16 ,vameter
+ 17 ,cores3se
+ 18 ,atoms3r
+ 19 ,papers3
 128 ,atom
 129 ,atom-psram
 130 ,atomu
