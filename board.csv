@@ -1,61 +1,61 @@
-BID ,Product name
-  0 ,unknown
-  1 ,basic
-  2 ,core2
-  3 ,stickc
-  4 ,stickc-plus
-  5 ,stickc-plus2
-  6 ,coreink
-  7 ,paper
-  8 ,tough
-  9 ,station
- 10 ,cores3
- 11 ,atoms3
- 12 ,dial
- 13 ,dinmeter
- 14 ,cardputer
- 15 ,airq
- 16 ,vameter
- 17 ,cores3se
- 18 ,atoms3r
- 19 ,papers3
- 20 ,coremp135
- 21 ,stamplc
- 22 ,tab5
- 23 ,arduino-nesso-n1
- 24 ,cardputer-adv
- 25 ,unit-c6l
- 26 ,sticks3
- 27 ,stack-chan
-128 ,atom
-129 ,atom-psram
-130 ,atomu
-131 ,m5camera
-132 ,timercam
-133 ,stamppico
-134 ,stampc3
-135 ,stampc3u
-136 ,stamps3
-137 ,atoms3-lite
-138 ,atoms3u
-139 ,capsule
-140 ,nanoc6
-141 ,atom-matrix
-142 ,atom-echo
-143 ,atoms3r-ext
-144 ,atoms3r-cam
-145 ,atom-echos3r
-146 ,powerhub
-147 ,dualkey
-148 ,unit-poep4
-149 ,stamps3bat
-150 ,stampp4
-192 ,atom-display
-193 ,unit-lcd
-194 ,unit-oled
-195 ,unit-minioled
-196 ,unit-glass
-197 ,unit-glass2
-198 ,unit-rca
-199 ,module-display
-200 ,module-rca
+BID, Product name     , MCU                     , Flash, PSRAM
+  0, unknown          ,                         ,      ,
+  1, basic            , ESP32-D0WDQ6-V3         , 16MB , None/8MB
+  2, core2            , ESP32-D0WDQ6-V3         , 16MB , 8MB
+  3, stickc           , ESP32-PICO-D4           , 4MB  ,
+  4, stickc-plus      , ESP32-PICO-D4           , 4MB  ,
+  5, stickc-plus2     , ESP32-PICO-V3-02        , 8MB  , 2MB
+  6, coreink          , ESP32-PICO-D4           , 4MB  ,
+  7, paper            , ESP32-D0WDQ6-V3         , 16MB , 8MB
+  8, tough            , ESP32-D0WDQ6-V3         , 16MB , 8MB
+  9, station          , ESP32-D0WDQ6-V3         , 16MB ,
+ 10, cores3           , ESP32-S3                , 16MB , 8MB
+ 11, atoms3           , ESP32-S3FN8             , 8MB  ,
+ 12, dial             , ESP32-S3FN8             , 8MB  ,
+ 13, dinmeter         , ESP32-S3FN8             , 8MB  ,
+ 14, cardputer        , ESP32-S3FN8             , 8MB  ,
+ 15, airq             , ESP32-S3FN8             , 8MB  ,
+ 16, vameter          , ESP32-S3FN8             , 8MB  ,
+ 17, cores3se         , ESP32-S3                , 16MB , 8MB
+ 18, atoms3r          , ESP32-S3-PICO-1-N8R8    , 8MB  , 8MB
+ 19, papers3          , ESP32-S3R8              , 16MB , 8MB
+ 20, coremp135        , STM32MP135DAE7          ,      , 4Gbit DDR3L SDRAM
+ 21, stamplc          , ESP32-S3FN8             , 8MB  ,
+ 22, tab5             , ESP32-P4NRW32           , 16MB , 32MB
+ 23, arduino-nesso-n1 , ESP32-C6                , 16MB ,
+ 24, cardputer-adv    , ESP32-S3FN8             , 8MB  ,
+ 25, unit-c6l         , ESP32-C6                , 16MB ,
+ 26, sticks3          , ESP32-S3-PICO-1-N8R8    , 8MB  , 8MB
+ 27, stack-chan       , ESP32-S3                , 16MB , 8MB
+128, atom             , ESP32-PICO-D4           , 4MB  ,
+129, atom-psram       , ESP32-PICO-D4           ,      ,
+130, atomu            , ESP32-PICO-D4           ,      ,
+131, m5camera         , ESP32                   , 4MB  , 4MB
+132, timercam         , ESP32-D0WDQ6-V3         , 8MB  , 4M
+133, stamppico        , ESP32-PICO-D4           , 4MB  ,
+134, stampc3          , ESP32-C3FH4             , 4MB  ,
+135, stampc3u         , ESP32-C3FH4             , 4MB  ,
+136, stamps3          , ESP32-S3FN8             , 8MB  ,
+137, atoms3-lite      , ESP32-S3FN8             , 8MB  ,
+138, atoms3u          , ESP32-S3FN8             , 8MB  ,
+139, capsule          , ESP32-S3FN8             , 8MB  ,
+140, nanoc6           , ESP32-C6FH4             , 4MB  ,
+141, atom-matrix      , ESP32-PICO-D4           , 4MB  ,
+142, atom-echo        , ESP32-PICO-D4           , 4MB  ,
+143, atoms3r-ext      , ESP32-S3-PICO-1-N8R8    , 8MB  , 8MB
+144, atoms3r-cam      , ESP32-S3-PICO-1-N8R8    , 8MB  , 8MB
+145, atom-echos3r     , ESP32-S3-PICO-1-N8R8    , 8MB  , 8MB
+146, powerhub         , ESP32-S3-WROOM-1U-N16R8 , 16MB , 8MB
+147, dualkey          , ESP32-S3FN8             , 8MB  ,
+148, unit-poep4       , ESP32-P4NRW32           , 16MB , 32MB
+149, stamps3bat       , ESP32-S3-PICO-1-N8R8    , 8MB  , 8MB
+150, stampp4          , ESP32-P4NRW32           , 16MB , 32MB
+192, atom-display     , Gowin GW1NR-9C          ,      ,
+193, unit-lcd         , ST7789V2                ,      ,
+194, unit-oled        , SH1107                  ,      ,
+195, unit-minioled    , SSD1315                 ,      ,
+196, unit-glass       , STM32F030F4P6           ,      ,
+197, unit-glass2      , SSD1309                 ,      ,
+198, unit-rca         ,                         ,      ,
+199, module-display   , GW1NR-LV9QN88C6-I5      ,      ,
+200, module-rca       , PCM5102APWR             ,      ,
