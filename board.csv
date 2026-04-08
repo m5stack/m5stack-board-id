@@ -27,6 +27,9 @@ BID, Product name     , MCU                     , Flash, PSRAM
  25, unit-c6l         , ESP32-C6                , 16MB ,
  26, sticks3          , ESP32-S3-PICO-1-N8R8    , 8MB  , 8MB
  27, stack-chan       , ESP32-S3                , 16MB , 8MB
+ 28, papercolor       , ESP32-S3R8              , 16MB , 8MB
+ 29, papermono        , ESP32-S3R8              , 16MB , 8MB
+ 30, stopwatch        , ESP32-S3R8              , 16MB , 8MB
 128, atom             , ESP32-PICO-D4           , 4MB  ,
 129, atom-psram       , ESP32-PICO-D4           ,      ,
 130, atomu            , ESP32-PICO-D4           ,      ,
