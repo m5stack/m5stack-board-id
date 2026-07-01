@@ -55,10 +55,12 @@ BID, Product name     , MCU                     , Flash, PSRAM
 148, unit-poep4       , ESP32-P4NRW32           , 16MB , 32MB Octal
 149, stamps3bat       , ESP32-S3-PICO-1-N8R8    , 8MB  , 8MB Octal
 150, stampp4          , ESP32-P4NRW32           , 16MB , 32MB Octal
-151, stampc5          , ESP32-C5HF4             , 4MB  ,
-152, stampc6          , ESP32-C6FH8             , 8MB  ,
-153, stamps3mini      , ESP32-S3-PICO-1-N8R8    , 8MB  , 8MB Octal
-154, stampp4x         , ESP32-P4NRW32           , 16MB , 32MB Octal
+151, nanoh2           , ESP32-H2FH4S            , 4MB  ,
+152, corematrix       , ESP32-C61HR8            , 8MB  ,
+153, stampc5          , ESP32-C5HF4             , 4MB  ,
+154, stampc6          , ESP32-C6FH8             , 8MB  ,
+155, stamps3mini      , ESP32-S3-PICO-1-N8R8    , 8MB  , 8MB Octal
+156, stampp4x         , ESP32-P4NRW32           , 16MB , 32MB Octal
 192, atom-display     , Gowin GW1NR-9C          ,      ,
 193, unit-lcd         , ST7789V2                ,      ,
 194, unit-oled        , SH1107                  ,      ,
