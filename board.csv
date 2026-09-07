@@ -59,7 +59,7 @@ BID, Product name     , MCU                     , Flash, PSRAM
 149, stamps3bat       , ESP32-S3-PICO-1-N8R8    , 8MB  , 8MB Octal
 150, stampp4          , ESP32-P4NRW32           , 16MB , 32MB Octal
 151, nanoh2           , ESP32-H2FH4S            , 4MB  ,
-152, corematrix       , ESP32-C61HR8            , 8MB  ,
+152, corematrix       , ESP32-C61HR8            , 16MB , 8MB Quad
 153, stampc5          , ESP32-C5HF4             , 4MB  ,
 154, stampc6          , ESP32-C6FH8             , 8MB  ,
 155, stamps3mini      , ESP32-S3-PICO-1-N8R8    , 8MB  , 8MB Octal
